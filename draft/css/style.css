@@ -1,0 +1,225 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    height: 60px;
+}
+
+nav{
+    height: 60px;
+    width: 100%;
+    display:inline-block;
+    background-color: #344051;
+    margin-bottom: 0px;
+}
+.logo{
+    color: aliceblue;
+    font-size: 28px;
+    line-height: 60px;
+    padding-left: 388px;
+    float: left;
+}
+.menu{
+    float: left;
+    padding-left: 432px;
+}
+.menu li{
+    float: left;
+    line-height: 60px;
+    color: aliceblue;
+    margin-right: 40px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.main{
+    margin-top: 0px;
+    display: inline-block;
+    width: 100%;
+    height: 920px;
+    background-image:url(file:///C:/VSProjects/HTMLProjects/draft/image/boy.png),url(file:///C:/VSProjects/HTMLProjects/draft/image/fon.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    box-shadow: inset 0px 0px 20px rgba(0, 0, 0, 0.3);
+    margin-bottom: 0px;
+    
+}
+  
+
+.title__container{
+    color: #2c384a;
+    float: left;
+    margin: 432px 0px 0px 404px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.title__container h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.title__container h4{
+    margin-top: 40px;
+    font-size: 20px;
+    color: #79818d;
+}
+.title__container input{
+    height: 40px;
+    color: #79818d;
+    margin-top: 40px;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 58px 14px 0px 14px;
+    border: 2px solid #2c384a;
+    border-radius: 6px ;
+    padding: 0px 16px;
+    text-align: center;    
+    background: none;
+}
+.about_me{
+    display: inline-block;
+    margin-top:0px;
+    height: 720px;
+    width: 100%;
+    
+}
+.about_me h3{
+    display: inline-block;
+    height: 163px;
+    width: 100%;
+    font-size: 30px; 
+    float: none; 
+    padding-top: 125px;  
+    margin-top: 0px;
+    margin-bottom: 15px;    
+    text-align: center;
+    
+    
+}
+.about_me img{    
+    margin-left: 917px;
+    
+}
+.mini_boy img{
+    display: inline-block;
+    margin-left: 860px;
+    margin-top: 60px;    
+   
+}
+.text_about{
+    display: inline-block;
+    font-size: 12px;
+    text-align:left;
+    margin-top: 23px;
+    margin-left: 597px;
+    padding-bottom: 40px;  
+    
+}
+.about_me input{
+    display: inline-block;
+    height: 34px;
+    width: 160px;
+    margin-left: 875px;
+    background: none;
+    background-image: url(file:///C:/VSProjects/HTMLProjects/draft/image/icon.png);
+    background-repeat: no-repeat;
+    background-position: left;    
+    border: 2px solid #2c384a;
+    border-radius: 6px;    
+    color: #2c384a;
+    font-weight: 600;  
+    
+    
+}
+.can_i_do{
+    width: 100%;
+    height: 523px;
+    display: inline-block;
+    text-align: center;
+    background: url(file:///C:/VSProjects/HTMLProjects/draft/image/fon_can_i_do.png);
+
+}
+.can_i_do h3{
+    display: inline-block;
+    height: 163px;
+    width: 100%;
+    font-size: 30px; 
+    float: none; 
+    padding-top: 125px;  
+    margin-top: 0px;
+    margin-bottom: 15px;    
+    text-align: center;
+}
+
+.do_list div{
+    display: inline-block;
+    width: 222px;
+    height: 155px;
+    margin-left: 85px;
+    margin-top: 70px;
+    
+
+}
+.do_list h5{
+    font-size: 15px;
+    color:#d89657;
+    font-weight: 600;
+    margin-bottom: 20px;
+
+}
+.design{
+    display: inline-block;
+    width: 222px;
+    height: 155px;
+}
+.do_list img{
+    margin-bottom: 40px;
+}
+.case{
+    width: 100%;
+    height: 1100px;
+    display: inline-block;
+    text-align: center;
+
+}
+.case{
+    width: 100%;
+    height: 1100px;
+    display: inline-block;
+    text-align: center;
+}
+.case h3{
+    display: inline-block;
+    height: 163px;
+    width: 100%;
+    font-size: 30px; 
+    float: none; 
+    padding-top: 125px;  
+    margin-top: 0px;
+    margin-bottom: 15px;    
+    text-align: center;
+}
+.website{
+    display: block;
+    margin-top: 45px;
+
+}
+.case p{
+    display: block;
+    margin-top: 40px;
+}
+.client_website{
+    display: block;
+    height: 1170px;
+    width: 600px;
+    padding-top: 45px;
+    float: left;
+    padding-bottom: 0px;
+     
+}
+.client{
+    display: block;
+    float: left;
+    margin-top: 700px;
+    margin-left: 0px;
+}
+
