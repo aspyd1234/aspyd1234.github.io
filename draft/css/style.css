@@ -120,7 +120,7 @@ nav{
     width: 160px;
     margin-left: 875px;
     background: none;
-    background-image: url(draft/image/icon.png);
+    background-image: url(../image/icon.png);
     background-repeat: no-repeat;
     background-position: left;    
     border: 2px solid #2c384a;
@@ -135,7 +135,7 @@ nav{
     height: 523px;
     display: inline-block;
     text-align: center;
-    background: url(draft/image/fon_can_i_do.png);
+    background: url(../image/fon_can_i_do.png);
 
 }
 .can_i_do h3{
