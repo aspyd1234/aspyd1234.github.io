@@ -36,7 +36,7 @@ nav{
     display: inline-block;
     width: 100%;
     height: 920px;
-    background-image:url(image/boy.png),url(image/fon.png);
+    background-image:url(draft/image/boy.png),url(draft/image/fon.png);
     background-repeat: no-repeat;
     background-position: right;
     box-shadow: inset 0px 0px 20px rgba(0, 0, 0, 0.3);
@@ -120,7 +120,7 @@ nav{
     width: 160px;
     margin-left: 875px;
     background: none;
-    background-image: url(file:///C:/VSProjects/HTMLProjects/draft/image/icon.png);
+    background-image: url(draft/image/icon.png);
     background-repeat: no-repeat;
     background-position: left;    
     border: 2px solid #2c384a;
@@ -135,7 +135,7 @@ nav{
     height: 523px;
     display: inline-block;
     text-align: center;
-    background: url(file:///C:/VSProjects/HTMLProjects/draft/image/fon_can_i_do.png);
+    background: url(draft/image/fon_can_i_do.png);
 
 }
 .can_i_do h3{
